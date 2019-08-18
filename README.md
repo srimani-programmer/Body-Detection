@@ -1,5 +1,5 @@
 ## Body Detection
-A Machine Learning Model to detect our body using Tensorflow.js. The major benefits of this model is we can easily integrate with any browser based applications. No need to setup any hectic softwares to run this application.
+A Machine Learning Model to detect our body Gestures using Tensorflow.js. The major benefits of this model is we can easily integrate with any browser based applications. No need to setup any hectic softwares to run this application.
 
 ### Requirements (Not Mandatory)
 
