@@ -35,6 +35,7 @@ function modelReady(){
   select('#status').html('model Loaded')
 }
 
+
 // A function to draw ellipses over the detected keypoints
 function drawKeypoints()  {
   // Loop through all the poses detected
